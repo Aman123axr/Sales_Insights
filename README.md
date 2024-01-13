@@ -6,7 +6,6 @@ Created An automated dashboard providing quick & latest sales insights in order 
 ### Data Analysis Using SQL
 
 1. Show all customer records
-
     `SELECT * FROM customers;`
 ![image](https://github.com/Aman123axr/Sales_Insights/assets/113253972/27815985-6c4b-46ab-b444-d4bd9c636a6b)
 
