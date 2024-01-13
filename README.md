@@ -1,14 +1,15 @@
-## Sales Insights Data Analysis Project
+![image](https://github.com/Aman123axr/Sales_Insights/assets/113253972/732a3191-a2e0-4bba-a77b-5ca2cd056449)## Sales Insights Data Analysis Project
 ## Purpose
 To unlock sales insights that are not visible before for sales team for decision support & automate them to reduced manual time spent in data gathering.
 ## End Result
 Created An automated dashboard providing quick & latest sales insights in order to support data driven decision making.
+![image](https://github.com/Aman123axr/Sales_Insights/assets/113253972/5d1ad71d-37a4-4784-a002-4a06aa114667)
+
 ### Data Analysis Using SQL
 
 1. Show all customer records
     `SELECT * FROM customers;`
-![image](https://github.com/Aman123axr/Sales_Insights/assets/113253972/27815985-6c4b-46ab-b444-d4bd9c636a6b)
-
+   
 1. Show total number of customers
 
     `SELECT count(*) FROM customers;`
